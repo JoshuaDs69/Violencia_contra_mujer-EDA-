@@ -3,3 +3,4 @@ Análisis exploratorio de datos de un dataset con información sobre casos docum
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/9595393c-5bff-4da0-9808-0299faa1754f" />
 
 En el siguiente EDA se utilizarán técnicas de visualización, filtrado de datos y manipúlación de datos usando librerías como Pandas, Maatplotlib y Seaborn
+Link al colab: https://colab.research.google.com/drive/1NKNxLWnhxdg3TA35lNuYojD3aBDBMlE9?usp=sharing 
